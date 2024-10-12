@@ -6,9 +6,8 @@ This is a full-stack application that allows users to define custom reporting la
 
 Before you start, make sure you have the following installed on your machine:
 
-- [Node.js](https://nodejs.org/) (for frontend)
+- [React.js](https://nodejs.org/) (for frontend)
 - [Python 3](https://www.python.org/) (for backend)
-- [Git](https://git-scm.com/) (to clone the repository)
 
 ---
 
